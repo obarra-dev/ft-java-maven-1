@@ -1,0 +1,1 @@
+# ft-java-maven
